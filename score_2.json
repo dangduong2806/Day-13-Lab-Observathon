@@ -1,0 +1,21 @@
+{
+  "team": "duong",
+  "phase": "private",
+  "headline": 100.0,
+  "sub": {
+    "correct": 0.85,
+    "quality": 0.9091,
+    "error": 1.0,
+    "latency": 0.7397,
+    "cost": 0.8792,
+    "drift": 0.6352,
+    "prompt": 0.8187
+  },
+  "diag_f1": 0.952,
+  "n": 80,
+  "n_correct": 68,
+  "judge_mode": "offline",
+  "weights_hash": "e81a8ed58d93",
+  "key_hash": "7e3905b75db0",
+  "sig": "b85486c01521ffadae14162998dc32f0d254b6d2dea71293e015309526894ad8"
+}

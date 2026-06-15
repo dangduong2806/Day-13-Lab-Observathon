@@ -10,8 +10,12 @@ venv/
 logs/
 traces/
 *.db
-run_output.json
+observathon-sim/
+run_output*.json
 score.json
 dashboard_summary.json
+public_score.png
 .env
+.env.*
+!.env.example
 .DS_Store
